@@ -1,0 +1,22 @@
+{
+  "name": "super-security",
+  "title": "Super Security",
+  "description": "Security audits, threat modelling, testing, and remediation across apps, APIs, and infrastructure.",
+  "version": "0.1.0",
+  "source_catalogue": "skills-super",
+  "skill_entrypoint": "SKILL.md",
+  "modules": [
+    {
+      "name": "Security Audits",
+      "path": "references/modules/security-auditor.md"
+    },
+    {
+      "name": "Threat Modelling",
+      "path": "references/modules/threat-modelling-expert.md"
+    },
+    {
+      "name": "Web Security Testing",
+      "path": "references/modules/web-security-testing.md"
+    }
+  ]
+}
