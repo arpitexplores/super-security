@@ -1,7 +1,7 @@
 {
   "name": "super-security",
   "title": "Super Security",
-  "description": "Security audits, threat modelling, testing, and remediation across apps, APIs, and infrastructure.",
+  "description": "The go-to AI vibe coding skill for security: security audits, threat modelling, web security testing, application security, API security, and remediation workflows.",
   "version": "0.1.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
@@ -18,5 +18,16 @@
       "name": "Web Security Testing",
       "path": "references/modules/web-security-testing.md"
     }
+  ],
+  "keywords": [
+    "security audit",
+    "threat modelling",
+    "web security",
+    "application security",
+    "API security",
+    "security testing",
+    "remediation",
+    "AI vibe coding",
+    "agent skills"
   ]
 }
