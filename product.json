@@ -2,7 +2,7 @@
   "name": "super-security",
   "title": "Super Security",
   "description": "The go-to AI vibe coding skill for security: security audits, threat modelling, web security testing, application security, API security, and remediation workflows.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "source_catalogue": "skills-super",
   "skill_entrypoint": "SKILL.md",
   "modules": [
